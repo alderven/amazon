@@ -1,11 +1,11 @@
 # General information
 
-This project contains simple UI test written in Python+Selenium and [Allure Report](https://cdn.rawgit.com/alderven/amazon/master/allure-report/index.html)
+This project contains simple UI test written in Python+Selenium and [Allure Report](https://cdn.rawgit.com/alderven/amazon/master/allure-report/index.html#suites/ea8b96cd4d959a8b5cb65c5eaa9c9ae3/1e92bf9193b10422/)
 
 # Test Case and Test Result:
 № | Test Script                                                                                                                       | Run Result                                                                                                       
 -- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- 
-1  | [test_amazon_add_to_the_shopping_cart.py](https://github.com/alderven/amazon/blob/master/test_amazon_add_to_the_shopping_cart.py) | [Passed](https://cdn.rawgit.com/alderven/amazon/master/allure-report/index.html#packages/a3ba69d38a1588df4d97ea47e185269a/5aedd3359b72a51a/)  
+1  | [test_amazon_add_to_the_shopping_cart.py](https://github.com/alderven/amazon/blob/master/test_amazon_add_to_the_shopping_cart.py) | [Passed](https://cdn.rawgit.com/alderven/amazon/master/allure-report/index.html#behaviors/245bbb410ba7e2f1de564e4107003436/1e92bf9193b10422/)  
 
 
 # How to install
