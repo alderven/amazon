@@ -1,0 +1,11 @@
+[ {
+  "uid" : "1e92bf9193b10422",
+  "name" : "test_amazon_add_to_the_shopping_cart",
+  "time" : {
+    "start" : 1537775697245,
+    "stop" : 1537775768829,
+    "duration" : 71584
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

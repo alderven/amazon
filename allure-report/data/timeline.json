@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Darina",
+    "children" : [ {
+      "name" : "5904-MainThread",
+      "children" : [ {
+        "name" : "test_amazon_add_to_the_shopping_cart",
+        "uid" : "1e92bf9193b10422",
+        "parentUid" : "c9523a510340571a6336a5f4a4e56f49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1537775697245,
+          "stop" : 1537775768829,
+          "duration" : 71584
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9523a510340571a6336a5f4a4e56f49"
+    } ],
+    "uid" : "47981804ec655031b71058b7a5912936"
+  } ]
+}

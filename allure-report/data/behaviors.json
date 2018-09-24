@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Amazon",
+    "children" : [ {
+      "name" : "Add to the shopping cart",
+      "children" : [ {
+        "name" : "test_amazon_add_to_the_shopping_cart",
+        "uid" : "1e92bf9193b10422",
+        "parentUid" : "245bbb410ba7e2f1de564e4107003436",
+        "status" : "passed",
+        "time" : {
+          "start" : 1537775697245,
+          "stop" : 1537775768829,
+          "duration" : 71584
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "245bbb410ba7e2f1de564e4107003436"
+    } ],
+    "uid" : "2b904e8422a1b62183c949480e2fdc82"
+  } ]
+}

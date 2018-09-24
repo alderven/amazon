@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "amazon.test_amazon_add_to_the_shopping_cart",
+    "children" : [ {
+      "name" : "test_amazon_add_to_the_shopping_cart",
+      "uid" : "1e92bf9193b10422",
+      "parentUid" : "bb3e3d50943b9a727324ca2156b2cc49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537775697245,
+        "stop" : 1537775768829,
+        "duration" : 71584
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "amazon.test_amazon_add_to_the_shopping_cart"
+  } ]
+}
