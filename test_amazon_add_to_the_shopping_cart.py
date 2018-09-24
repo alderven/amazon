@@ -18,8 +18,8 @@ def test_amazon_add_to_the_shopping_cart(driver):
     with pytest.allure.step('3. Verify found results (please explain fragility of tests here and how we can fix it if '
                             'we own the product).'):
 
-        # N.B. Fragility of the test depends on whether this item is available or not.
-        # To make test more stable we can add some "test" good to the storage and then search it.
+        # N.B. Fragility of the test depends on how many goods are available and whether this good is available at all.
+        # To make test more stable we can add some "test" goods to the database and then search it.
 
         total_count = Results(driver).total_count
         assert total_count, 'No results found for product: "{}"'.format(product_name)
